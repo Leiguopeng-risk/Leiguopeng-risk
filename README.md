@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+##Hi, I'm 雷国鹏
+  信用管理专业本科生 @ 上海第二工业大学 | 关注信用风控与数据建模
+  
+  正在学习： Python风控建模 · 评分卡 · LLM在信用场景的应用
+  求职方向： 风控运营 / 信用分析 / 数据分析（实习）
+  
+  技术栈： Python · pandas · scikit-learn · SQL
+  
+  精选项目（链接到下方2—3个仓库）
 <!--
 **Leiguopeng-risk/Leiguopeng-risk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
